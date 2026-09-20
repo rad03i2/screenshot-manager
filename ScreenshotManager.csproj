@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <RootNamespace>ScreenshotManager</RootNamespace>
+    <AssemblyName>screenshot-manager</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>Radwan Abdulhadi Ahmed (@rad03i2)</Authors>
+    <Description>Safe local screenshot organizer and catalog CLI.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
